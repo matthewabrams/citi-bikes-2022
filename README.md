@@ -10,14 +10,19 @@ Project is based on total rides using Citi Bikes in New York City in 2022 so far
 * What is the average time amount spent riding a Citi Bike?
 
 
-# Folder
+# Scripts
 
-Here is the structure of the repository:
+Here is the structure of the script:
 
 ```
 
-Data                # Folder contains all the the original and prepared datasets. 
-Scripts             # Folder contains scripts of advanced analysis like regression and cluster analysis
+Bikes NYC Cleaning Data
+
+1) Importing Libraries and DataFrame
+2) Combining Dataframes
+3) Checking for missing values, duplicates, and inconsistant values
+4) Changing datatypes and adding new columns
+5) Exporting Finalized Dataframe to Desktop
 
 ```
 
