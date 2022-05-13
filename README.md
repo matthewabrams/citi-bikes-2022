@@ -10,7 +10,7 @@ Project is based on total rides using Citi Bikes in New York City in 2022 so far
 * What is the average time amount spent riding a Citi Bike?
 
 
-# Scripts
+# Script
 
 Here is the structure of the script:
 
