@@ -21,6 +21,6 @@ Scripts             # Folder contains scripts of advanced analysis like regressi
 
 ```
 
-# Power BI Dashboard
+# Tableau Dashboard
 
 Here is the project delivery that describes my analysis: [Citi Bike Trips in New York City 2022](https://public.tableau.com/app/profile/matthew3308/viz/CitiBikeTripsinNewYorkCity2022/Dashboard1)
