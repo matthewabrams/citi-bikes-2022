@@ -8,7 +8,7 @@ Project is based on total rides using Citi Bikes in New York City in 2022 so far
 * When do they ride? 
 * What days of the week are most rides taken on? 
 * What is the average time amount spent riding a Citi Bike?
-
+* Are bike riding habits the same for members and casual riders?
 
 # Script
 
@@ -26,7 +26,6 @@ Bikes NYC Cleaning Data
 6) Rearranging Columns and Exporting Finalized Dataframe to Desktop
 
 ```
-
 # Tableau Dashboard
 
 Here is the project delivery that describes my analysis: [Citi Bike Trips in New York City 2022](https://public.tableau.com/app/profile/matthew3308/viz/CitiBikeTripsinNewYorkCity2022/Dashboard1)
