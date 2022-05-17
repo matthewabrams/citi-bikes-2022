@@ -22,7 +22,8 @@ Bikes NYC Cleaning Data
 2) Combining Dataframes
 3) Checking for missing values, duplicates, and inconsistant values
 4) Changing datatypes and adding new columns
-5) Exporting Finalized Dataframe to Desktop
+5) Outliers
+6) Rearranging Columns and Exporting Finalized Dataframe to Desktop
 
 ```
 
