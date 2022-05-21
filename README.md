@@ -22,7 +22,7 @@ Bikes NYC Cleaning Data
 2) Combining Dataframes
 3) Checking for missing values, duplicates, and inconsistant values
 4) Changing datatypes and adding new columns
-5) Outliers
+5) Filtering out outliers and rides longer than 2 hrs (120 minutes)
 6) Rearranging Columns and Exporting Finalized Dataframe to Desktop
 
 ```
