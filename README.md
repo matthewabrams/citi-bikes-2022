@@ -28,4 +28,4 @@ Bikes NYC Cleaning Data
 ```
 # Tableau Dashboard
 
-Here is the project delivery that describes my analysis: [Citi Bike Trips in New York City 2022](https://public.tableau.com/app/profile/matthew3308/viz/CitiBikeTripsinNewYorkCity2022/Dashboard1)
+Here is the project delivery that describes my analysis: [Citi Bike Trips in New York City and New Jersey 2022](https://public.tableau.com/app/profile/matthew3308/viz/CitiBikeTripsinNewYorkCityandJerseyCity2022/Dashboard1?publish=yes)
