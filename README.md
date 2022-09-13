@@ -25,7 +25,13 @@ Bikes NYC Cleaning Data
 5) Filtering out outliers and rides longer than 2 hrs (120 minutes)
 6) Rearranging Columns and Exporting Finalized Dataframe to Desktop
 
+Bikes New York City 2022 Pivot Tables
+
+1) Importing Libraries and DataFrame
+2) Aggregating Data using Pivot Tables
+3) Exporting pivot tables as csvs
+
 ```
 # Tableau Dashboard
 
-Here is the project delivery that describes my analysis: [Citi Bike Trips in New York City and New Jersey 2022](https://public.tableau.com/app/profile/matthew3308/viz/CitiBikeTripsinNewYorkCityandJerseyCity2022/Dashboard1?publish=yes)
+Here is the project delivery that describes my analysis: [Citi Bike Trips in New York City and New Jersey 2022](https://public.tableau.com/app/profile/matthew3308/viz/CitiBikeTripsinNewYorkCity2022/Dashboard?publish=yes)
