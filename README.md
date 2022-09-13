@@ -1,4 +1,4 @@
-# New York City and Jersey City Citi Bike Rides 2022
+# New York City Citi Bike Rides 2022
 
 Project is based on total rides using Citi Bikes in New York City in 2022 so far. Source of data came from [citibikenyc.com](https://ride.citibikenyc.com/system-data)
 
@@ -34,4 +34,4 @@ Bikes New York City 2022 Pivot Tables
 ```
 # Tableau Dashboard
 
-Here is the project delivery that describes my analysis: [Citi Bike Trips in New York City and New Jersey 2022](https://public.tableau.com/app/profile/matthew3308/viz/CitiBikeTripsinNewYorkCity2022/Dashboard?publish=yes)
+Here is the project delivery that describes my analysis: [Citi Bike Trips in New York City 2022](https://public.tableau.com/app/profile/matthew3308/viz/CitiBikeTripsinNewYorkCity2022/Dashboard?publish=yes)
