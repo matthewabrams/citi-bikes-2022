@@ -2,6 +2,8 @@
 
 My year-long project is based on total rides using Citi Bikes in New York City of 2022. Source of data came from [citibikenyc.com](https://ride.citibikenyc.com/system-data)
 
+My Tableau account only accepts a maximum of 20,000,000 rows and my data exceeds this limitation. I've used Python to create pivot tables, therefore drastically reducing the number of rows, yet aggregating all data. 
+
 # Key Questions & Objectives
 
 * Where do Citi Bikers ride to? 
