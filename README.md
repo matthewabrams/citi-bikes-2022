@@ -1,6 +1,6 @@
 # New York City Citi Bike Rides 2022
 
-Project is based on total rides using Citi Bikes in New York City in 2022 so far. Source of data came from [citibikenyc.com](https://ride.citibikenyc.com/system-data)
+My year-long project is based on total rides using Citi Bikes in New York City of 2022. Source of data came from [citibikenyc.com](https://ride.citibikenyc.com/system-data)
 
 # Key Questions & Objectives
 
