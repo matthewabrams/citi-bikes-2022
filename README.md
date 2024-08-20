@@ -39,4 +39,4 @@ Bikes New York City 2022-2024 Pivot Tables
 ```
 # Tableau Dashboard
 
-Here is the project delivery that describes my analysis: [Citi Bike Trips in New York City 2022-2024](https://public.tableau.com/app/profile/matthew3308/viz/NYCCitiBikeRidesOperationalAnalysis2022-2024/Dashboard1?publish=yes)
+Here is the project delivery that describes my analysis: [Citi Bike Trips in New York City 2022-2024](https://public.tableau.com/app/profile/matthew3308/viz/CitiBikeRidesinNYCOperationalAnalysis2022-2024/Dashboard1?publish=yes)
